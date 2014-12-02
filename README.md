@@ -5,7 +5,7 @@ Annotation-Kit
 
 Annotation Kit is a collection of useful tools and plugins for [Sketch App](http://bohemiancoding.com/sketch/) that help with adding annotations to your designs. Currently this package contains just a few tools, but pretty soon it will grow to a full fledged solution.
 
-I will be posting daily updates in my twitter. Follow me [@turbobabr](https://twitter.com/turbobabr) to stay tuned.
+I will be posting updates in my twitter. Follow me [@turbobabr](https://twitter.com/turbobabr) to stay tuned.
 
 ## Installation
 
