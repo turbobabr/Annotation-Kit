@@ -17,7 +17,7 @@ Here is a short screencast that demonstrates how to remove shadows:
 
 (screencast goes here);
 
-1. Make a Window Screenshot using Ctrl+Shift+Cmd+4 and Space key.
+1. Make a Window Screenshot using standard `Ctrl+Shift+Cmd+4`, hover over a window and hit `Space`.
 2. Paste it into the page.
 3. Select resulting image layer.
 4. Hit `Ctrl+A` to remove the shadow.
