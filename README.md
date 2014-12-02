@@ -7,7 +7,7 @@ Annotation-Kit
 
 intro.
 
-<img src="./docs/shadow_remover_result.png">
+<img src="./docs/shadow_remover_result.png" width="728" height="286">
 
 probes.
 
