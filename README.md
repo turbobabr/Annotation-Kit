@@ -13,10 +13,6 @@ With this tool you could easily achieve the following result:
 
 ### How To Use
 
-Here is a short screencast that demonstrates how to remove shadows:
-
-(screencast goes here);
-
 1. Make a Window Screenshot using standard `Ctrl+Shift+Cmd+4`, hover over a window and hit `Space`.
 2. Paste it into the page.
 3. Select resulting image layer.
