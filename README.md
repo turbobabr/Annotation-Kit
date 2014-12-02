@@ -9,7 +9,7 @@ Shadow Remover is a handy tool to quickly remove shadow from a window screenshot
 
 With this tool you could easily achieve the following result:
 
-<img src="./docs/shadow_remover_result.png" width="728" height="286">
+<img src="https://raw.githubusercontent.com/turbobabr/Annotation-Kit/master/docs/shadow_remover_result.png" width="728" height="286">
 
 ### How To Use
 
