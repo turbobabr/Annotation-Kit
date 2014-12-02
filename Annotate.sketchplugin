@@ -1,0 +1,17 @@
+// (control a)
+#import 'ShadowRemoverTool.js'
+
+(function(){
+
+    var layer = selection.firstObject();
+    if(layer) {
+
+        // Shadow Remover Tool.
+        var target=ShadowRemoverTool.validate(layer)
+        if(target) {
+            ShadowRemoverTool.apply(layer,target);
+            return;
+        }
+    }
+
+})();
