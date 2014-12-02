@@ -32,7 +32,7 @@ This means that Shadow Remover works only with window screenshots that have stan
 
 Icon Extractor Tool allows to extract contents of icons associated with application bundle or any file system object. It also allows to extract all or specific size representations from Apple `.icns` files or Windows `.ico` file.
 
-<img src="./docs/shadow_remover_pixel_probes.png" width="728" height="446">
+<img src="./docs/icon_extractor_tool_hero.png" width="728" height="339">
 
 This tool has nothing to do with annotations, but anyway I decided to include it in the package, since it's a real helper for designing graphics for documentation, articles or presentation. It's also might be used to quickly grab an icon of desired size and use it as a reference during graphics design process.
 
