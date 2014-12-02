@@ -1,7 +1,25 @@
 Annotation-Kit
 ==============
+
 **Work in progress...**
 
+Annotation Kit is a collection of useful tools and plugins for [Sketch App](http://bohemiancoding.com/sketch/) that help with adding annotations to your designs. Currently this package contains just a few tools, but pretty soon it will grow to a full fledged solution.
+
+I will be posting daily updates in my twitter. Follow me [@turbobabr](https://twitter.com/turbobabr) to stay tuned.
+
+## Installation
+
+1. [Download Sketch Annotation-Kit.zip archive file]().
+2. Reveal plugins folder in finder ('Sketch App Menu' -> 'Plugins' -> 'Reveal Plugins Folder...').
+3. Copy downloaded zip file to the revealed folder and un-zip it.
+4. You are ready to go! :)
+
+
+## Change Log
+
+#### v0.1.0: December 2, 2014
+
+- Initial release with only `Shadow Remover` and `Icon Extractor` tools
 
 ## Shadow Remover Tool
 
@@ -44,3 +62,19 @@ This tool has nothing to do with annotations, but anyway I decided to include it
 4. You've just got some icons on your page! :)
 
 > IMPORTANT NOTE: Don't forget that all the icons are belong to their respective owners! :)
+
+## Feedback
+
+If you discover any issue or have any suggestions, please [open an issue](https://github.com/turbobabr/annotation-kit/issues) or find me on twitter [@turbobabr](http://twitter.com/turbobabr).
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2014 Andrey Shakhmin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
