@@ -43,4 +43,4 @@ This tool has nothing to do with annotations, but anyway I decided to include it
 3. Hit `Grab Icon!` button.
 4. You've just got some icons on your page! :)
 
-> IMPORTANT NOTE: Don't forget that all the icons are belong to their authors! :)
+> IMPORTANT NOTE: Don't forget that all the icons are belong to their respective owners! :)
