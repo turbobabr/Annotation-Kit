@@ -86,13 +86,11 @@
                 layer.frame().setY(0);
 
                 if(dx==-1) {
-                    dx=layer.frame().x()+layer.frame().width();
-                    print("Init: "+dx);
+                    dx=layer.frame().x()+layer.frame().width();                    
                 } else {
                     dx+=20;
                     layer.frame().setX(dx);
                     dx+=layer.frame().width();
-                    print("Sequence: "+dx);
                 }
 
                 collectedIconLayers.push(layer);
