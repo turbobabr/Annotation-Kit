@@ -27,3 +27,20 @@ The following pixel probes are used during screenshot validation:
 <img src="./docs/shadow_remover_pixel_probes.png" width="728" height="446">
 
 This means that Shadow Remover works only with window screenshots that have standard shape and shadow. Popover windows, menus and windows with custom shape are not supported.
+
+## Icon Extractor Tool
+
+Icon Extractor Tool allows to extract contents of icons associated with application bundle or any file system object. It also allows to extract all or specific size representations from Apple `.icns` files or Windows `.ico` file.
+
+<img src="./docs/shadow_remover_pixel_probes.png" width="728" height="446">
+
+This tool has nothing to do with annotations, but anyway I decided to include it in the package, since it's a real helper for designing graphics for documentation, articles or presentation. It's also might be used to quickly grab an icon of desired size and use it as a reference during graphics design process.
+
+### How To Use
+
+1. Launch plugin `Annotation-Kit - > Extract Icon`.
+2. Choose application, icon file or any other object you want extract icon from.
+3. Hit `Grab Icon!` button.
+4. You've just got some icons on your page! :)
+
+> IMPORTANT NOTE: Don't forget that all the icons are belong to their authors! :)
