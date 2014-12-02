@@ -7,11 +7,12 @@ I will be posting updates in my twitter. Follow me [@turbobabr](https://twitter.
 
 ## Installation
 
-1. [Download Sketch Annotation-Kit.zip archive file](https://github.com/turbobabr/Annotation-Kit/archive/master.zip).
+1. [Download Annotation-Kit.zip archive file](https://github.com/turbobabr/Annotation-Kit/archive/master.zip).
 2. Reveal plugins folder in finder ('Sketch App Menu' -> 'Plugins' -> 'Reveal Plugins Folder...').
 3. Copy downloaded zip file to the revealed folder and un-zip it.
 4. You are ready to go! :)
 
+**Note: All the plugins in this package work only in Sketch 3.2 Beta**
 
 ## Change Log
 
