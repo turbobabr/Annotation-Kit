@@ -1,26 +1,17 @@
-// (control a)
+// (control shift a)
 #import 'ShadowRemoverTool.js'
 #import 'MagnifyingGlassTool.js'
 #import './cocoascript_modules/alert.js'
 #import 'utils.js'
 
 (function(){
-
     var layer = selection.firstObject();
     if(layer) {
 
-        // Shadow Remover Tool.
-        var target=ShadowRemoverTool.validate(layer)
-        if(target) {
-            ShadowRemoverTool.apply(layer,target);
-            return;
-        }
-
-        // Magnifying Glass Tool.
+        // Magnifying Glass Tool: Add with options.
         if(MagnifyingGlassTool.validate(layer)) {
-            MagnifyingGlassTool.apply(layer);
+            MagnifyingGlassTool.applyWithOptions(layer);
             return;
         }
     }
-
 })();
