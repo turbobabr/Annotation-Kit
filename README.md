@@ -29,14 +29,14 @@ TODO: Intro goes here..
 1. Hit `Command-S` and put a slice on the area you want to magnify:
 <img src="./docs/bounding_box.png" width="792" height="170">
 2. Select the slice and hit `Control-A` to magnify the area:
-<img src="./docs/sample_options_alert.png" width="792" height="170">
+<img src="./docs/bounding_box.png" width="792" height="170">
 
 #### Magnify Area with Custom Settings
 
 1. Hit `Command-S` and add a new slice:
 <img src="./docs/bounding_box.png" width="792" height="170">
 2. Select the slice, hit `Control-Shift-A`, and setup magnifying glass properties:
-<img src="./docs/sample_options_alert.png" width="425" height="405">
+<img src="./docs/bounding_box.png" width="425" height="405">
 3. Click `OK` button or hit enter to add the glass:
 <img src="./docs/bounding_box.png" width="792" height="170">
 
