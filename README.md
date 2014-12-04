@@ -27,9 +27,9 @@ TODO: Intro goes here..
 #### Magnify Area
 
 1. Hit `Command-S` and put a slice on the area you want to magnify:
-<img src="./docs/magnify_area_add_glass.png" width="696" height="324">
-2. Select the slice and hit `Control-A` to magnify the area:
 <img src="./docs/magnify_area_create_placeholder.png" width="696" height="324">
+2. Select the slice and hit `Control-A` to magnify the area:
+<img src="./docs/magnify_area_add_glass.png" width="696" height="324">
 
 #### Magnify Area with Custom Settings
 
