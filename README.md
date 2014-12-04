@@ -16,17 +16,22 @@ I will be posting updates in my twitter. Follow me [@turbobabr](https://twitter.
 
 ## Change Log
 
-#### v0.1.0: December 2, 2014
+##### v0.2.0: December 4, 2014
+
+- Added Magnifying Glass Tool
+- Fixed aspect ratio bug in Shadow Remover
+
+##### v0.1.0: December 2, 2014
 
 - Initial release with only `Shadow Remover` and `Icon Extractor` tools
 
 # Magnifying Glass Tool
 
-TODO: Intro goes here..
+This tool is essential when you need to get a detailed picture of a small area of your design. It looks exactly like the standard Sketch color picker and can be configured to suite your needs.
 
 #### Magnify Area
 
-1. Hit `Command-S` and put a slice on the area you want to magnify:
+1. Hit `Command-S` and put a slice on the area you want to magnify. Be sure that slice size is small enough, otherwise you'll get gazillion pixels magnifying glass. By default selected slice is magnified 8x times:
 <img src="./docs/magnify_area_create_placeholder.png" width="696" height="324">
 2. Select the slice and hit `Control-A` to magnify the area:
 <img src="./docs/magnify_area_add_glass.png" width="696" height="324">
@@ -37,7 +42,7 @@ TODO: Intro goes here..
 <img src="./docs/magnify_area_with_custom_settings_initial.png" width="696" height="324">
 2. Select the slice, hit `Control-Shift-A`, and setup magnifying glass properties:
 <img src="./docs/magnify_area_with_custom_settings.png" width="696" height="529">
-3. Click `OK` button or hit enter to add the glass:
+3. Click `OK` button or hit `Enter` to add the glass:
 <img src="./docs/magnify_area_with_custom_settings_result.png" width="696" height="354">
 
 # Shadow Remover Tool
