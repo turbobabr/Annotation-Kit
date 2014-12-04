@@ -20,7 +20,22 @@ I will be posting updates in my twitter. Follow me [@turbobabr](https://twitter.
 
 - Initial release with only `Shadow Remover` and `Icon Extractor` tools
 
-## Shadow Remover Tool
+# Magnifying Glass Tool
+
+TODO: Intro goes here..
+
+#### Magnify Area
+
+1. Hit `Command-S` and put a slice on the area you want to magnify:
+2. Select the slice and hit `Control-A` to magnify the area:
+
+#### Magnify Area with Custom Settings
+1. Hit `Command-S` and add a new slice:
+2. Select the slice, hit `Control-Shift-A`, and setup magnifying glass properties:
+<img src="./docs/sample_options_alert.png" width="425" height="405">
+3. Click `OK` button or hit enter to add the glass:
+
+# Shadow Remover Tool
 
 Shadow Remover is a handy tool to quickly remove shadow from a window screenshot. It’s a great companion for anyone who is making documentation, writing articles or preparing presentations. By removing a shadow from your screenshot, it becomes more clear and less cluttered.
 
@@ -28,7 +43,7 @@ With this tool you could easily achieve the following result:
 
 <img src="https://raw.githubusercontent.com/turbobabr/Annotation-Kit/master/docs/shadow_remover_result.png" width="728" height="286">
 
-### How To Use
+### Usage
 
 1. Make a Window Screenshot using standard `Ctrl+Shift+Cmd+4`, hover over a window and hit `Space`.
 2. Paste it into the page.
@@ -45,7 +60,7 @@ The following pixel probes are used during screenshot validation:
 
 This means that Shadow Remover works only with window screenshots that have standard shape and shadow. Popover windows, menus and windows with custom shape are not supported.
 
-## Icon Extractor Tool
+# Icon Extractor Tool
 
 Icon Extractor Tool allows to extract contents of icons associated with application bundle or any file system object. It also allows to extract all or specific size representations from Apple `.icns` files or Windows `.ico` file.
 
@@ -53,7 +68,7 @@ Icon Extractor Tool allows to extract contents of icons associated with applicat
 
 This tool has nothing to do with annotations, but anyway I decided to include it in the package, since it's a real helper for designing graphics for documentation, articles or presentation. It's also might be used to quickly grab an icon of desired size and use it as a reference during graphics design process.
 
-### How To Use
+### Usage
 
 1. Launch plugin `Annotation-Kit - > Extract Icon`.
 2. Choose application, icon file or any other object you want extract icon from.
